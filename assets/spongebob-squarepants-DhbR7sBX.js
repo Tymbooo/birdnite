@@ -1,0 +1,1 @@
+var e={1:[[`en:hip-hip-hooray`,5],[`en:don-t-you-see`,1],[`en:vouch-for`,1],[`en:aye-aye`,1],[`en:coming-right-up`,1],[`en:all-hands-on-deck`,1],[`en:in-stock`,1],[`en:welcome-aboard`,1]]};export{e as default};
